@@ -5,15 +5,15 @@ Tracking lectures for Medical Device Regulation course.
 ## Sections
 
 ### Introduction
-- [ ] Introduction
+- [x] Introduction
 - [ ] IST_Intro
 - [ ] IST_Advances
 
 ### Need & Taxonomy
-- [ ] Need-Taxonomy_Part1
-- [ ] Need-Taxonomy_Part2
-- [ ] Need-Taxonomy_Part3
-- [ ] Need-Taxonomy_Part4
+- [x] Need-Taxonomy_Part1
+- [x] Need-Taxonomy_Part2
+- [x] Need-Taxonomy_Part3
+- [x] Need-Taxonomy_Part4
 
 ### Process & QA
 - [ ] Process-QA_Part1
