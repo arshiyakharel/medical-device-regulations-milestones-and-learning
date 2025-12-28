@@ -1,0 +1,57 @@
+REGULATORY PROCESS FOR MEDICAL DEVICES:
+Step 1 – Is your product a Medical Device?
+Step 2 – What is the Risk Class of your product?
+Step 3 – Do required Pre-Clinical and Clinical Tests
+Step 4 – Prepare Technical Documentation
+Step 5 – Implement/Update Quality Management System
+Step 6 – Apply for assessment by Regulator
+Step 7 – Fulfill Pre-Market Requirements
+Step 8 – Perform Post-Market Surveillance
+
+STEP 1: Is your product a medical device?
+Biological product: if manufactured in, extracted from, or semi-synthesized from biological sources; both drugs (i.e.
+vaccine), or devices (i.e. porcine heart valve)
+Non-biological product: if totally synthesized / manufactured. Among those:
+• Medicinal product: intended action is achieved by pharmacological, metabolic, or immunological means
+• Medical Device: intended action is not achieved by above means
+• Combinatory product: intended action is partially achieved by above means
+
+Medical Devices can be split into the following taxonomy:
+- active medical device
+- passive medical device
+- in-vitro medical device 
+
+STEP 2: what is the risk class of your product?
+class I: low risk devices, only general controls required
+class II: medium risk device, general and particular pre-clinical control required
+class III: high risk, general, pre-clinical and clinical control required. 
+
+EU MDR 2017/746 classifies devices alphabetically: A,B,C,D (low - high risk)
+but then EU regulation 2017/745 states "devices shall be divided into Classes I, IIa, IIb, III according to Annex VIII"
+ANNEX VIII is a classification criteria that provides guidelines on how to classify medical devices based on their use and risk posed.
+It provides definitions for medical device types and rules on how to classify
+
+CE(UK) vs. FDA(US)
+CE – Rule Based: Risk classification in the CE system is rule-based; 18 rules guide you to identify (hopefully in a
+deterministic way) which class risk your device is.
+FDA – Similarity Based: in the FDA system risk class is defined mostly by similarity (FDA product classification
+database, ~190 000 distinct device types!!). The simplified 510(k) premarket submission is a conformity route
+available based on “substantial equivalence” to a predicate.
+
+Understanding the FDA Medical Device Classification Process:
+Class I (Low Risk): Subject to general controls, often exempt from premarket notification and 510(k) submission.
+Class II (Moderate Risk): Requires special controls and usually a 510(k) submission.
+Class III (High Risk): Requires the most stringent review, typically through Premarket Approval (PMA).
+
+510(k) Submission:
+> this is a premarket submission given to the FDA demonstrating that a new device is "substantially equivalent"
+to a legally marketed predicate device. The new device should have the same intended use and similar technological characteristics.
+>If the FDA agrees the device is substantially equivalent, it gains clearance to market
+
+De Novo Process:
+If a device is new but has low to moderate risk, a de-novo classification can be requested
+The FDA will class it into Class I or II instead of defaulting to class III.
+If denied the device remain class III and goes through pre-market approval.
+
+513(g) Request:
+If unsure about a device classification, a  513(g) request can be submitted.
