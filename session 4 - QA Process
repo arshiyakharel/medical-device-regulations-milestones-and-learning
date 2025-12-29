@@ -144,3 +144,120 @@ Requests
 Recognises
 Publishes harmonised standards
 Compliance gives presumption of conformity under MDR (unless overridden by Common Specifications)
+
+
+Step 4 – Prepare Technical Documentation
+
+Technical Documentation is the formal evidence package showing that a medical device meets regulatory safety and performance requirements.
+Under EU MDR (and internationally), this documentation must be complete, traceable, and auditable.
+For IVDs and many global submissions, this is structured using STED.
+
+What is STED?
+STED (Summary Technical Documentation) was developed by the Global Harmonization Task Force (GHTF) and is now maintained conceptually by the International Medical Device Regulators Forum (IMDRF).
+Its purpose is to:
+Harmonise regulatory submissions internationally
+Present complex technical evidence in a standardised, regulator-friendly format
+Demonstrate conformity with Essential Principles of Safety and Performance
+WHO has published exemplar STEDs to support manufacturers, especially SMEs and IVD developers.
+
+Core STED Structure:
+1. Device Description and Product Specification
+A regulator must clearly understand what the device is and does.
+Intended purpose and indications for use
+Device principle of operation
+Variants, configurations, accessories
+Key performance characteristics
+
+2. Labelling
+Instructions for Use (IFU)
+Packaging labels
+Symbols and warnings
+Claims made about performance
+
+3. Design and Manufacturing Information
+This section demonstrates control over the device lifecycle and shows the device can
+be consistently manufactured to the approved design.
+Includes:
+1. Device design (drawings, architecture, software overview)
+2. Manufacturing processes (assembly, testing, sterilisation)
+3. Design and manufacturing sites
+
+4.Essential Principles (EP) Checklist
+5.Risk Analysis and Control Summary
+
+6.Product Verification and Validation
+This is often the largest and most scrutinised section.
+It demonstrates conformity with Essential Principles through:
+General Testing Evidence
+Engineering tests
+Laboratory tests
+Simulated use testing
+Pre-Clinical Evidence
+Animal studies (if applicable)
+Proof of concept and feasibility studies
+Biological Safety
+Biocompatibility
+Sterilisation validation
+Clinical Evidence
+Clinical investigations (if required)
+Literature on the device or equivalent devices
+
+7. Declaration of conformity
+
+STEP 5 - Implement/Update QMS
+Quality Management Systems for Medical Devices may include four sub-systems:
+• Management Controls: Provide adequate resources; Ensure the establishment and effective functioning of
+the quality system; Monitor the quality system and make necessary adjustments
+• Production and Process Controls: Manufacture products that meet specifications; Develop processes that are
+adequate; Validate those processes; Monitor and Control the manufacturing processes.
+• Design Controls: Control the design process; Assure the device design meets user needs, intended uses, and
+specified requirements.
+• Corrective and Preventive Action (CAPA): Collect and analyse information/data; Identify and investigate
+product and quality problems; Identify and implement effective corrective and preventive action.
+
+• Quality Control is oriented to the product; Quality Assurance is oriented to the process
+• Design: you can certify the prototype (as materialisation of the design), or the design process
+• Production: you can certify how you control the quality of a single product, or by which process you assure
+the quality of your entire production
+• QMS are in general regulated by the ISO9000 series first approved in 1978; for medical devices since 1996 the
+ISO13485 regulates the specific QMS
+
+STEP 6 - Apply for assessment by Regulator
+sample submissions can be found on the FDA database of 510(k) submissions
+here: https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm 
+
+STEP 7 - Fulfill Pre-Market Requirements
+In the US, the FDA premarket requirements for all devices consist of:
+registration, listing, labelling - Foreign firms must appoint a United
+States agent residing in the United States
+
+In Europe:
+1.A CE certificate must be obtained, otherwise the device cannot be sold
+2.Produce a Declaration of Conformity : a legal declaration signed by the manufacturer
+This is a self declaration that creates a legal liability, if its false the manufacturer is legally responsible. 
+3. Produce Identifiers:
+One of the most significant additions in MDR 2017/745 is the introduction of unique identifiers to improve traceability, patient safety, and regulatory oversight.
+
+UDI – Unique Device Identification
+Introduced to ensure full device traceability throughout its lifecycle.
+UDI-DI (Device Identifier):
+Identifies the device model/type
+Same for all units of the same model
+UDI-PI (Production Identifier):
+Identifies specific production data
+Includes batch/lot number, serial number, and/or expiry date
+
+Enables:
+Effective recalls
+Robust post-market surveillance
+Linking devices to adverse events
+
+SRN - Single registration number 
+- Affix CE mark to the device so consumers know it is certified by CE and safe to use.
+
+STEP 8 - Perform Post-Market Surveillance
+FDA: Medical Device Reporting (21 CFR Part 803) to monitor adverse effects; QMS bi-annual inspections
+Europe: Europe*: activate Post-Market Clinical Follow-up (Annex XIV), or PMCF; Post-market surveillance Arts. 83–86 and
+Vigilance (Arts. 87–92); User information translated in all languages of EEA countries in which the product is sold;
+QMS maintenance and EC certificate renewal plans. 
+
