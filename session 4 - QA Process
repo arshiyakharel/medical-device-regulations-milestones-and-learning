@@ -55,3 +55,92 @@ If denied the device remain class III and goes through pre-market approval.
 
 513(g) Request:
 If unsure about a device classification, a  513(g) request can be submitted.
+
+STEP 3 - Do required Pre-Clinical and Clinical Tests
+The required tests before launching a medical device follows this heirarchy:
+Basic Standards > Group Standards > Product Standards
+
+Basic Standards> Apply across many products - broad
+e.g.: Quality Management
+ISO 9001:2015 (general)
+ISO 13485:2016 (medical devices – mandatory in practice)
+Risk Management
+ISO 14971 (identification, evaluation, control of risks)
+These are foundational and apply to almost all devices.
+
+Group Standards> apply to categories of devices e.g.: electrical medical devices, software, implants
+e.g.: IEC 60601 series (electrical medical equipment)
+
+Product Standards > Apply to specific devices ECG monitors, infusion pumps)
+While Common Specifications were introduced under MDR to improve patient safety where standards are lacking, their ambiguous nature, limited availability, and mandatory status risk increasing regulatory uncertainty and may act as a barrier to innovation, particularly for novel medical technologies.
+
+FDA 510(k) process:
+The FDA 510(k) pathway is a premarket notification process, not a formal approval.
+Central idea: Substantial Equivalence (SE)
+A manufacturer must show that a new device is substantially equivalent to a legally marketed predicate device.
+
+This involves four key steps:
+Identify a Predicate Device
+FDA-cleared, legally marketed device
+Same intended use and similar technological characteristics
+Analyse Differences
+
+Are there differences in:
+Materials?
+Design?
+Energy source?
+Software or algorithms?
+
+Critical question:
+Do these differences raise new questions of safety or effectiveness?
+
+Apply Appropriate Scientific Methods
+Bench testing
+Biocompatibility
+Electrical safety
+Software validation
+Clinical data (only if necessary)
+Evaluate Performance Data
+
+If performance is equivalent to or better than the predicate
+And no new safety/effectiveness questions arise
+➜ Claim Substantial Equivalence
+
+Role of Technical Standards in the 510(k) Program
+Voluntary but Strongly Encouraged
+
+Use of standards is voluntary, not mandatory
+However:
+“Whenever there is a standard, use it!”
+Why?
+Recognised standards provide accepted methods to demonstrate safety and performance
+Reduce FDA review time
+Increase regulatory predictability
+
+If No Standard Exists
+The burden shifts to the manufacturer to:
+Justify the scientific validity of the chosen test methods
+Demonstrate they appropriately address specific risks or performance claims
+
+➡ This mirrors MDR logic, but without mandatory Common Specifications.
+
+Sources of Technical Standards
+International
+ISO – primary global source for medical device standards
+National / Regional
+BSI – UK national standards body
+ASTM, IEC, CEN, CENELEC, ETSI – sector-specific organisations
+
+⚠️ Important distinction:
+Standards bodies write standards
+Notified Bodies (NBs) assess conformity
+They are not the same, even if housed in the same organisation (e.g. BSI)
+
+European Harmonised Standards (Contextual Link)
+Through the Vienna Agreement (ISO ↔ CEN) and Dresden Agreement (IEC ↔ CENELEC):
+International standards can be adopted as European harmonised standards
+The European Commission formally:
+Requests
+Recognises
+Publishes harmonised standards
+Compliance gives presumption of conformity under MDR (unless overridden by Common Specifications)
