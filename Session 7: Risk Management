@@ -1,0 +1,124 @@
+Following the BS EN ISO14971:2019 Standard, risk management includes the following steps:
+• General requirements for risk management
+• Risk analysis - identifies hazards, harms and estimates probability and severity of harm
+• Risk evaluation - compares risk against an acceptability criteria and decides wether risk is acceptable or needs control
+• Risk control - carried out if risk is unacceptable
+• Evaluation of overall residual risk acceptability
+• Risk management report
+• Production and post-production information
+
+A medical device manufacturer should define a continuous process
+throughout the life-cycle of the medical device, for
+identifying hazards, estimating and evaluating the
+associated risks, controlling these risks, and
+monitoring the effectiveness of the controls. 
+
+key elements of the risk management process are:
+- risk assessment (which involves risk analysis, estimation and evaluation)
+- risk control
+a flowchart of the whole process can be found in ISO14971:2019
+
+Top Management should provide evidence of commitment to risk management and allocate qualified personell to reveiw risk.
+- determine the policy for risk acceptability 
+- periodically revise the suitability of the risk management process 
+
+A risk management plan includes:
+• Scope of the risk management activities, and the phases of the device life-cycle to which each activity is
+applicable
+• Assign responsibilities and authorities
+• Set requirements for reviews
+• Define criteria for risk acceptability
+• Define verification activities
+• Define activities related to the collection of production and post-production information
+
+A risk management file is for a particular medical device. 
+ For each medical device, a risk management file must include full traceability for the following processes:
+• the risk analysis;
+• the risk evaluation;
+• the implementation and verification of the risk control measures;
+• the assessment of the acceptability of any residual risk(s)
+
+Risk analysis and estimate:
+This part of the risk management file will include:
+• General information
+• Description and identification of the medical device that was analysed;
+• Identification of the person(s) and organization who carried out the risk analysis;
+• Scope and date of the risk analysis
+• Intended use and characteristics related to the safety
+• Document the intended use
+• Reasonably foreseeable misuses
+• List characteristics that could affect safety, and define their limits
+• Identification of harms
+• List and describe known and foreseeable harm associated with the medical device in both normal and fault
+conditions
+• Estimation of the risk(s) for each hazardous situation
+• For each identified harm, estimate the probability that it occurs, and the severity of the effects if it occurs
+
+Different Medical Devices can have different applied standards, standards can help identify hazards
+basic standards - general requirements for a broad class of products
+group standards - general requirements for specific classes of products
+product standards - specific requirements for specific classes of products
+
+Hazards identification:
+An example of the hazards identification process can be found in ISO 24971:2020, it includes questions such as:
+• Does the device have a restricted shelf-life?
+• Factors that should be considered include labelling or indicators and the disposal of such medical
+devices when the expiration date is reached
+• Is the medical device intended for single use?
+• Factors that should be considered include: does the medical device self-destruct after use? Is it obvious
+that the device has been used?
+
+Risk Evaluation
+After identifying hazards, manufacturers must decide using the criteria for risk acceptability if risk reduction is required.
+The results of this risk evaluation shall be recorded in the risk management file
+
+Risk Control:
+Risk control will include the following:
+• Risk control option analysis
+• Implementation of risk control measure(s)
+• Residual risk evaluation
+• After the risk control measures are applied, any residual risk shall be evaluated using the criteria defined in
+the risk management plan.
+• Risk/benefit analysis
+• Risks arising from risk control measures
+• Completeness of risk control
+• Compliance is checked by inspection of the risk management file
+
+once all of this is finished the final steps include:
+• Risk management report:
+• Prior to release for commercial distribution of the medical device, the manufacturer shall carry out a review
+of the risk management process.
+• Production and post-production information:
+• The manufacturer shall establish, document and maintain a system to collect and review information about
+the medical device or similar devices in the production and the post-production phases.
+• Any event recorded during these processes that may change the risk profile must trigger a risk re-assessment
+cycle.
+• Informing the user:
+• Information for safety: Safety information can be provided to the receiving patient or to the medical
+professional involved with the delivery of the medical device. This should explain the proper use of the
+device, the consequences of an inappropriate use, what should be done to avoid harm.
+• Disclosure of residual risk(s): This should explain the residual risks associated to the device, the
+consequences of exposure to such risks, what should be done to avoid harm.
+
+SUMMARY:
+Following BS EN ISO 14971:2019, medical device risk management is a continuous, life-cycle process
+designed to ensure the safety and performance of the device. It includes risk analysis
+(identifying hazards and estimating probability and severity of harm), 
+risk evaluation (comparing risks to pre-defined acceptability criteria),
+risk control (implementing measures to reduce unacceptable risks),
+and the assessment of residual risks. 
+The process is documented in a risk management plan and a risk management file for each device, 
+which tracks the full traceability of analysis, evaluation, control implementation, and residual risk assessment.
+A comprehensive risk management plan defines the scope, responsibilities, criteria for risk acceptability, verification activities,
+and procedures for collecting production and post-production data.
+Risk analysis includes detailed information about the device, intended use, foreseeable misuse,
+hazards, harms, and risk estimation. 
+Manufacturers use standards (basic, group, and product-specific) to guide hazard identification,
+and may follow guidance such as ISO 24971:2020 to ensure factors like shelf life, single-use design,
+labeling, and disposal are considered.
+
+Once risk controls are applied, residual risks are evaluated and, if necessary, a risk–benefit analysis is performed.
+The final steps include preparing a risk management report prior to device release, establishing systems to monitor
+production and post-production data, and providing safety information to users. This includes instructions for proper use,
+warnings about potential harm, and disclosure of residual risks, ensuring that any events changing the risk profile trigger
+a reassessment cycle, maintaining ongoing safety throughout the device’s life-cycle.
