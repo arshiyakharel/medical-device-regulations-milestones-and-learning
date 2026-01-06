@@ -1,0 +1,104 @@
+1. STED Structure
+STED (Summary Technical Documentation) is a standardized format used to demonstrate that a medical device (including IVDs) conforms to Essential Principles of Safety and Performance.
+Core Components of STED include:
+. Device Description & Product Specification (including variants)
+• Labelling
+• Design and Manufacturing Information
+• Essential Principles (EP) Checklist
+!!• Risk Analysis and Control Summary!!
+• Product Verification and Validation
+• Declaration of Conformity
+
+Risk is the combination of the probability of harm occurring and the severity of that harm.
+Risk Analysis is a Systematic process that involves:
+- documenting the intended use and characteristic related to the safety of a device
+- identification of hazards
+- Estimation of the risks for each harm 
+
+Risk analysis: CE vs. FDA
+The FDA recognises ISO 14971:2007 while EU CE Marking required EN ISO 14971:2019
+The differences between the 2007 and 2019 version of ISO 14971 include:
+Negligible Risks:
+EU: All risks must be reduced as far as possible
+FDA: Negligible risks may be ignored
+Risk Acceptability:
+EU: Manufacturer-defined acceptability thresholds are not sufficient
+Risks must be reduced even if considered acceptable
+Economic Considerations:
+EU: Cost cannot justify not reducing risk
+FDA: Cost–benefit considerations are allowed
+Risk–Benefit Analysis:
+EU: Performed only after all risk reduction measures
+FDA: May be used earlier in the process
+
+Probability Estimates 
+The estimates of the probability of risk should be supported with:
+Published standards, expert opinion, clinical evidence, SOLID DATA.
+
+Risk levels are determined in a severity-probability risk matrix:
+R1 – Low risk
+Low severity and/or low probability
+Usually acceptable, minimal or no action needed
+R2 – Medium risk
+Moderate concern
+Risk control measures should be considered
+R3 – High risk
+Significant risk
+Risk reduction is required
+R4 – Very high / unacceptable risk
+High severity and high probability
+Must be reduced before the device can be acceptable
+
+There are a variety of risk analysis techniques that can be used, here are 4:
+Preliminary Hazard Analysis (PHA): Used in the early development process to identify hazards when few details of the medical device design are known.
+Fault Tree Analysis (FTA): is especially useful in safety engineering, early in the development stages, for the
+identification and prioritization of hazards and hazardous situations as well as for analysing adverse events. 
+Failure Mode and Effect Analysis (FMEA):  techniques by which an effect or consequences of individual components are systematically identified and is more
+appropriate as the design matures.
+Hazard Operability Study (HAZOP) and Hazard Analysis and Critical Control Point (HACCP) are typically used
+in the latter stages of the development phase to verify and then optimize design concepts or changes
+
+RISK CONTROL:
+Risk control is applied when identified risks are too high and involves:
+Risk reduction: Actions taken to lower unacceptable risks
+Risk control option analysis: Identify and rank control measures using this hierarchy:
+Inherent safety by design
+Protective measures (device or manufacturing)
+Information for safety (warnings, IFU)
+Implementation & verification: Selected controls must be implemented and verified for correct implementation and effectiveness
+Residual risk evaluation: Remaining risk is evaluated against criteria in the risk management plan
+Risk–benefit analysis: If residual risk is still unacceptable and cannot be further reduced, benefits may be weighed against risks
+New risks from controls: Risk controls must be reviewed to ensure they do not introduce new hazards
+Completeness: All identified hazardous situations must be addressed
+
+An example of risk control within a medical device can be with - Implantable Pacemaker
+The Hazard: loss of functionality
+Hazardous Situation: Pacemaker stops functioning due to early battery depletion
+Inherently safe design: Use Reliable long-life batteries
+Protective Measure: Alarm before battery depletion
+Info for safety: information on typical battery lifetime. 
+
+Linking back to FDA vs. CE, ISO 14971:2007 suggest to reduce risk “As Low As Reasonably Possible” (ALARP), BS EN ISO 14971:2019 requires
+that risk is reduced “As Far As Possible” (AFAP)
+To go into more detail:
+ALARP - this is based on the belief that overall risk can never be completely removed
+ If the risk is “negligible”, in the sense that it conceptually exists but its probability is below the detectability
+threshold, it can be discarded
+• Even if a risk is measurable, it can be accepted by the manufacturer if:
+• The risk cannot be reduced any further, or its reduction would prevent the commercialisation, AND
+• The risk the device exposes the patient to is lower than the benefit the patient would receive from the
+device
+
+AFAP: This is based on the beleif that patient health always comes first.
+• Any risk, even if negligible, cannot be discarded, must be targeted for reduction, and included in the riskbenefit analysis
+• The manufacturer has no discretionary power to decide a risk is acceptable. All risks should be reduced as far
+as possible
+• A key point is that cost should not be a factor. According to the regulation a manufacturer cannot accept a risk
+simply because reducing it would be too expensive.
+
+overall, comparing CE and FDA (510k), CE is more demanding as every device requires a full risk analysis while the FDA is more lenient. 
+A device 510(k)-certified may have risk-related problems to get CE mark with:
+• compliance with ISO 14971:2007 instead of BS EN ISO 14971:2019
+• reduction of risks as low as reasonably practicable (ALARP) instead of reducing risks as far as possible (AFAP)
+• reducing risks by notifying users and patients of residual risks in the Indication for Use
+• only addressing unacceptable risks with risk controls instead of all risks–including negligible risks
