@@ -21,10 +21,14 @@ Tracking lectures for Medical Device Regulation course.
 - [x] Process-QA_Part3
 - [x] Process-QA_Part4
 
-### Risk Management & Biocompatibility
+### Risk Management
 - [x] Risk management
 - [x] Risk_and_ISO14971
+
+### Biocompatibility & Testing
 - [ ] Biocompatibility
+- [ ] Evaluation Process
+- [ ] Tests
 
 ### Clinical & Preclinical
 - [ ] AnimalTesting_GeneralConsiderations
@@ -53,10 +57,6 @@ Tracking lectures for Medical Device Regulation course.
 - [ ] FDA system_Step4
 - [ ] FDA system_Steps5–8
 - [ ] CE Marking
-
-### Evaluations & Tests
-- [ ] EvaluationProcess
-- [ ] Tests
 
 ### Essays & Examples
 - [ ] ExampleEssay1
