@@ -16,14 +16,14 @@ Tracking lectures for Medical Device Regulation course.
 - [x] Need-Taxonomy_Part4
 
 ### Process & QA
-- [ ] Process-QA_Part1
-- [ ] Process-QA_Part2
-- [ ] Process-QA_Part3
-- [ ] Process-QA_Part4
+- [x] Process-QA_Part1
+- [x] Process-QA_Part2
+- [x] Process-QA_Part3
+- [x] Process-QA_Part4
 
 ### Risk Management & Biocompatibility
-- [ ] Risk management
-- [ ] Risk_and_ISO14971
+- [x] Risk management
+- [x] Risk_and_ISO14971
 - [ ] Biocompatibility
 
 ### Clinical & Preclinical
