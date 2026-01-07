@@ -142,3 +142,36 @@ Robustness
 Results are not affected by small environmental or procedural changes
 These qualities ensure that test results are scientifically trustworthy and regulator-acceptable.
 
+BIOCOMPATIBILITY TESTS:
+the following are types of biocompatibility tests:
+• Cytotoxicity: cell cultures are exposed to the device, its materials, or its extracts to see if this causes cell death,
+inhibits growth, colony formation, etc. (see ISO 10993-5) e.g.: MTT assays to assess metabolic activitiy
+• Irritation, intracutaneous reactivity, delayed-type hypersensitivity: contact sensitisation with appropriate
+site is tested on animal models (see ISO 10993-10)
+• Systemic toxicity: using animal models, test systemic effects (which affect the whole body, including fever, i.e.
+pyrogenecity) of organism absorption of leachables or degradation products. Divide in acute (<24h) and subacute (between 24h and 10% of the total life span of the test animal, for example 13 weeks for rats) (see ISO
+10993-11)
+• Genotoxicity: explore the appearance of gene mutations, chromosome structure and number, and in general
+DNA alterations in cell cultures exposed to the device, its materials, or extracts. If in vitro is positive, in vivo
+confirmation is required (see ISO 10993-3)
+• Implantation: test on animal model the local pathological effect on living tissue of the contact with the device,
+material, extract (see ISO 10993-6)
+• Haemocompatibility: Both in vitro or in vivo tests to evaluate the effect of the device contacting BLOOD. Very
+important is the haemolysis, the rupture of red cells, with relative release of haemoglobin (see ISO 10993-4).
+• Chronic toxicity: Explore LONG-TERM toxicity effects, using an animal model where the effects are observed over a
+major period of the life-span of the animal (e.g. six months in rat) (see ISO 10993-11).
+• Carcinogenicity: Test the possibility for the device, materials, or extracts to induce CANCER. Long-term animal
+studies, unusual for medical devices (see ISO 10993-3).
+• Reproductive and developmental toxicity: Specific tests exploring the risk of toxicity on the reproductive
+function, the development of the embryo (teratogenicity), and the pre-natal and post-natal development. Apply
+to all devices used during pregnancy, among others (see ISO 10993-3).
+• Biodegradation: Special set of tests required for biodegradable devices. A general framework for biodegradation
+tests is given in ISO 10993-9. Specific in vitro biodegradation tests for polymers, ceramics and metals are
+described in ISO 10993-13, ISO 10993-14 and ISO 10993-15 respectively.
+ Toxicokinetic studies: combination of experimental and computational models to valuate the Absorption,
+Distribution, Metabolism, and Excretion (ADME) of chemicals. These models also provide the delivered dose to
+the target organ(s), which then is used by physiology-based pharmacokinetic (PBPK) models to estimate the
+health hazard associated to the exposure (see ISO 10993-16). The need for toxicokinetic studies is decided on the
+basis of the in vitro biodegradation studies (see ISO 6.2.2.13).
+• Immunotoxicology: the new standard ISO/TS10993-20 provides an overview of potential immunotoxicity tests
+of medical devices
