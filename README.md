@@ -51,7 +51,7 @@ Tracking lectures for Medical Device Regulation course.
 - [ ] InsilicoApproaches_Part3
 
 ### Regulatory Systems
-- [ ] CE Marking
+- [x] CE Marking
 
 ### Essays & Examples
 - [ ] ExampleEssay1
