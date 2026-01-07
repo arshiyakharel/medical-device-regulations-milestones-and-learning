@@ -1,0 +1,83 @@
+Regulatory Process for medical devices
+• Step 1 – Is your product a Medical Device?
+• Step 2 – What is the Risk Class of your product?
+• Step 3 – Do required Pre-Clinical and Clinical Tests
+• Step 4 – Prepare Technical Documentation
+• Step 5 – Implement Quality Management System
+• Step 6 – Apply for assessment by Regulator
+• Step 7 – Fulfill Pre-Market Requirements
+• Step 8 – Perform Post-Market Surveillance
+
+Types of medical products:
+- Medicinal product - substance(s) to treat or prevent disease/ make a medical diagnosis etc. 
+  Medical Device - an instrument apparaturs/ appliance/ material or other article including software for:
+- diagnosis/prevention/monitoring/treatment etc of a disease/injury, control of conception. 
+  Combination products: example: stent that releases a drug. Regulatory pathway very complex, out of scope for
+this module
+
+medical device taxonomy - medical devices can be split into categories:
+- active medical device (needs an external energy source to operate i.e. pacemaker)
+- passive medical device (no external energy device needed - hip implant)
+- in-vitro medical device ()
+
+medical devices can also be classified into categories: I, IIa, IIb.(see lecture slides)
+
+  Different devices require different standards, this is the requirements hierarchy.
+All devices will need essential standards a.k.a: Essential Requirements MDR 2017/745 - Annex I
+some devices need extra standards and precaution - e.g.: (ISO 5832 Implants for surgery)
+
+  Harmonised standards (EU medical device system)
+
+In the EU, only standards developed by recognised European Standards Organisations are valid:
+CEN, CENELEC, and ETSI
+
+These standards are created at the request of the European Commission.
+International standards can be aligned with European standards through:
+Vienna Agreement (ISO ↔ CEN)
+Dresden Agreement (IEC ↔ CENELEC)
+
+These agreements allow standards to be adopted between global and European systems, reducing duplication.
+General Safety and Performance (GSP) Requirements
+
+Medical devices must meet the following core principles:
+Any undesirable side effect must be an acceptable risk compared to the intended benefit.
+Clinical evaluation is mandatory to demonstrate conformity.
+
+Requirements cover:
+Design and construction
+Chemical, physical, and biological properties
+Infection and microbial contamination
+Environmental and construction-related risks
+Devices with a measuring function
+Protection against radiation
+Devices connected to or using an energy source
+Information provided by the manufacturer (e.g. instructions, warnings)
+
+  Particular and device-specific requirements
+ISO 16142-1:2016
+Defines essential principles of safety and performance for non-IVD medical devices
+Provides guidance on selecting applicable standards
+Not yet harmonised under the EU MDR
+ISO 14630
+General requirements for non-active surgical implants
+ISO 16061
+General requirements for instruments used with non-active surgical implants
+Class-specific requirements
+ISO 21534 – Joint replacement implants (particular requirements)
+Sub-class-specific requirements
+ISO 21535 (parts 1–6) – Specific requirements for hip and knee joint replacement implants
+• ISO 13485, Medical devices — Quality management systems — Requirements for regulatory purposes
+• ISO 14971, Medical devices — Application of risk management to medical devices
+(many more covered on slides)
+
+Once a CE Mark is received:
+ The company is free to market the device in the EU
+• Certain countries outside of EU also recognize the CE Mark
+• The CE Mark in and of itself does may not help with approval in the US/Japan, but a positive track record in the
+EU may have a positive influence, and a negative track record can hurt you
+• Provides additional strategic options to support a US submission
+
+Post-market surveillance:
+• Activate Medical Device Vigilance System, and compliance with Traceability requirements
+• Users information translated in all languages of EEA countries in which the product is sold
+• QMS maintenance and EC certificate renewal plans
