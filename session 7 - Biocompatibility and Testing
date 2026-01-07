@@ -1,0 +1,144 @@
+Testing Biocompatibility of a product is addressed in ISO 10993, 
+This is a huge standard (20 parts) that covers things from Animal testing, Sample preparation, characterisation of materials, identifying degradation products from different materials (polymer, ceramics, metals etc.)
+
+Biocompatibility testing and standards aim to evaluate biological risks and adverse reactions arising from the use of medical devices
+It focuses on the interaction of the device with living tissues it may contact. 
+Biological risk can stem from the material, shape, finishing of a medical device. 
+Overall this standard does not operate on a pass/fail criteria and is intended for use by specialists with adequate training and experience. 
+
+Part 1 of ISO 10993 is: "Evaluation and testing within a risk management process" which aims to:
+• Define the general principles governing biocompatibility tests
+• Categorise devices based on the duration and nature of the contact with the body
+• Collect all available data, and perform gap identification via risk analysis
+• Generate additional data to have a complete assessment of the biological safety of the medical devices
+
+Specialists will look out for:
+• The material(s) used to manufacture the device;
+• Intended additives, process residues and contaminants;
+• Extractables: substances that can be released from a medical device or material using extraction solvents and/or
+extraction conditions that are expected to be at least as aggressive as the conditions of clinical use;
+• Leachable substances: this means liquids that drain away from a solid, possibly as a result of wash-out process by
+a bodily fluid;
+• Degradation products;
+• Physical characteristics, such as surface morphology, particle size and shape, porosity, etc.
+
+Logical workflow of this first part is as follows:
+1. Is the device in direct or indirect contact with the body? ➛ if not, ISO10993 does not apply
+2. Is the device biocompatibility equivalent to that of another commercially available, in term of materials,
+chemical composition, manufacturing and sterilisation, and type of body contact? ➛ if yes, do only risk
+assessment
+3. Are there in the literature enough data to support the biocompatibility of the device in term of toxicology for all
+involved chemicals, even in mixtures, and for the doses and route of exposure observed in this device? ➛ if yes,
+only risk assessment
+4. If not enough data exist, perform necessary tests, and then do the risk assessment
+
+Devices are split into categories (by contact and by duration)
+By contact:
+- surface contacting device: band-aid, contact lens etc.
+- external communicating device: dialysers, dental cements, intravenous systems etc. 
+- implant device: hip replacement, pacemaker, stent etc. 
+
+By duration:
+- limited exposure - contact upto 24h
+- prolonged exposure - contact between 24h - 30d
+- permanent contact - contact exceeds 30d
+
+EVALUATION OF BIOCOMPATIBILITY:
+Material characterization
+Medical devices must first be chemically characterized according to ISO 10993-18 and ISO/TS 10993-19.
+This means identifying:
+All chemical constituents of the material
+Manufacturing residues
+Intended additives (e.g. stabilizers, plasticizers)
+
+Risk-based additional testing
+Depending on the risk profile of the device (type of contact with the body, duration of contact, and existing data), further testing may be required:
+Leachables (chemicals that may migrate out of the device) → ISO 10993-17
+Degradation products (chemicals formed when the device breaks down) → ISO 10993-9, -13, -14, -15
+The goal is to understand what chemicals the patient could be exposed to and in what amounts.
+
+Biological evaluation tests
+By default, biological safety tests are conducted in vivo (animal tests) according to ISO 10993-2.
+Animal testing can be avoided if:
+Reliable results already exist from previous studies, or
+Existing pre-clinical and clinical data and a history of safe use are sufficient.
+This reflects both scientific efficiency and ethical responsibility.
+
+2. How tests are selected and conducted
+Key principles
+Tests must be performed on the final, sterile product, not just raw materials.
+
+Test selection depends on:
+Type and duration of contact with the body
+Frequency and conditions of exposure
+Chemical and physical nature of the device
+Known toxicology of involved chemicals
+Surface area of the device relative to patient body size
+Existing scientific literature
+Sensitivity and specificity of the test
+
+Hazard exclusion
+Some hazards do not apply if a mechanism of harm is excluded.
+Example: If no chemicals can leach out, systemic toxicity testing may not be needed.
+
+Quality and ethics
+All tests must:
+Follow Good Laboratory Practice (GLP)
+Be reproducible, repeatable, and robust
+Animal testing must comply with the 3Rs (see below).
+
+3. Toxicology (what it is and why it matters)
+Toxicology is:
+The study of harmful effects of chemicals on living organisms
+Also includes diagnosing and treating toxic exposures
+Key factors considered:
+Dose–response relationship (how much causes harm)
+Route of exposure (skin, ingestion, inhalation, implantation)
+Species, sex, and environment
+This information is used to assess whether exposure from a medical device is safe or harmful.
+
+4. Sensitivity and specificity (test performance)
+These terms describe how good a binary test (positive/negative) is:
+
+Sensitivity (True Positive Rate)
+How well the test detects a real hazard
+Example: % of truly HIV-positive patients correctly identified
+
+Specificity (True Negative Rate)
+How well the test avoids false alarms
+Example: % of healthy people correctly identified as healthy
+
+Important insight:
+A test that always says “positive” has:
+100% sensitivity
+0% specificity
+This distinction matters because false positives and false negatives have different clinical consequences, even if overall accuracy looks good.
+
+5. The Three Rs (ethical use of animals)
+The 3Rs framework ensures humane animal research:
+Replacement – avoid animal use where possible
+Reduction – use the minimum number of animals
+Refinement – minimize suffering and improve welfare
+
+Key points:
+The 3Rs are embedded in laws, regulations, and funding policies
+Public acceptance of animal research depends on applying the 3Rs
+In the UK, this is promoted by the NC3Rs organisation
+
+6. Good Laboratory Practice (GLP)
+GLP is a quality management system for laboratories performing pre-clinical tests.
+Its purpose:
+Ensure consistency, reliability, reproducibility, and integrity of data
+It commonly relies on:
+ISO/IEC 17025:2005, which sets competence requirements for testing laboratories
+
+7. Reproducibility, repeatability, and robustness (ISO 10993 terms)
+In ISO 10993 context:
+Repeatability
+Same lab, same team, same method → same results
+Reproducibility
+Different labs or teams → same results
+Robustness
+Results are not affected by small environmental or procedural changes
+These qualities ensure that test results are scientifically trustworthy and regulator-acceptable.
+
