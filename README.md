@@ -6,8 +6,6 @@ Tracking lectures for Medical Device Regulation course.
 
 ### Introduction
 - [x] Introduction
-- [ ] IST_Intro
-- [ ] IST_Advances
 
 ### Need & Taxonomy
 - [x] Need-Taxonomy_Part1
@@ -26,9 +24,9 @@ Tracking lectures for Medical Device Regulation course.
 - [x] Risk_and_ISO14971
 
 ### Biocompatibility & Testing
-- [ ] Biocompatibility
-- [ ] Evaluation Process
-- [ ] Tests
+- [x] Biocompatibility
+- [x] Evaluation Process
+- [x] Tests
 
 ### Clinical & Preclinical
 - [ ] AnimalTesting_GeneralConsiderations
@@ -53,12 +51,10 @@ Tracking lectures for Medical Device Regulation course.
 - [ ] InsilicoApproaches_Part3
 
 ### Regulatory Systems
-- [ ] FDA system_Steps1–3
-- [ ] FDA system_Step4
-- [ ] FDA system_Steps5–8
 - [ ] CE Marking
 
 ### Essays & Examples
 - [ ] ExampleEssay1
 - [ ] Essay2
 
+** look into MSK, CVD or in-silico if relevant jobs come up, now you know the basics, they are extra.
